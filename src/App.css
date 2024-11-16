@@ -1,0 +1,13 @@
+.user-details {
+  display: flex;
+  justify-content: space-between;
+}
+
+.loan-history-card {
+  display: flex;
+  justify-content: space-between;
+}
+
+.no-underline {
+  text-decoration: none;
+}
